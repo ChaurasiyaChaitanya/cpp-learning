@@ -20,7 +20,7 @@ class Person {
     string getName() {
         return name;
     }
-
+    
     void setName(string n) {
         name = n;
     }
